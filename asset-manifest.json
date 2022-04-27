@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-readux-gallery/static/css/main.05727bda.css",
+    "main.js": "/react-readux-gallery/static/js/main.5d72d293.js",
+    "index.html": "/react-readux-gallery/index.html",
+    "main.05727bda.css.map": "/react-readux-gallery/static/css/main.05727bda.css.map",
+    "main.5d72d293.js.map": "/react-readux-gallery/static/js/main.5d72d293.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05727bda.css",
+    "static/js/main.5d72d293.js"
+  ]
+}
